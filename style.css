@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body {background: #fbef75ff; font-family: 'Bangers';}
+
+h1 {
+  background-color:#935f4aff;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  width: 112%;
+  margin: -10px auto 0 auto;
+  margin-left: -41px;
+}
+
+.container {
+  width: 350px;
+  margin: 0 auto;
+  background: #f1c4a8ff;
+  padding: 10px;
+  padding-left: 42px;
+    padding-right: 1px;
+  border-radius: 8px;
+    margin-top: 250px;
+}
+
+
+
+
+.image {
+  width: 65%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin-left: 33px;
+  margin-right: auto;
+}
+
+.button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  padding: 10px;
+  border: none;
+  background-color: #935f4aff;
+  color: white;
+  font-family: 'Bangers';
+  font-size: 26px;
+  cursor: pointer;
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+}
+
+.questionOne{
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.questionTwo{
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
